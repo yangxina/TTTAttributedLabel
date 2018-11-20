@@ -43,7 +43,7 @@ As of version 1.10.0, `TTTAttributedLabel` supports VoiceOver through the  `UIAc
 
 - If you **need help**, use [Stack Overflow](http://stackoverflow.com/questions/tagged/tttattributedlabel). (Tag `tttattributedlabel`)
 - If you'd like to **ask a general question**, use [Stack Overflow](http://stackoverflow.com/questions/tagged/tttattributedlabel).
-- If you **found a bug**, open an issue.
+
 - If you **have a feature request**, open an issue.
 - If you **want to contribute**, submit a pull request.
 
